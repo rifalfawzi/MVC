@@ -1,0 +1,49 @@
+D:\C#\Gabutku\Promos\Promos\bin\Debug\Promos.exe.config
+D:\C#\Gabutku\Promos\Promos\bin\Debug\Promos.exe
+D:\C#\Gabutku\Promos\Promos\bin\Debug\Promos.pdb
+D:\C#\Gabutku\Promos\Promos\obj\Debug\MainWindow.g.cs
+D:\C#\Gabutku\Promos\Promos\obj\Debug\Penawaran.g.cs
+D:\C#\Gabutku\Promos\Promos\obj\Debug\App.g.cs
+D:\C#\Gabutku\Promos\Promos\obj\Debug\Promos_MarkupCompile.cache
+D:\C#\Gabutku\Promos\Promos\obj\Debug\Promos_MarkupCompile.lref
+D:\C#\Gabutku\Promos\Promos\obj\Debug\MainWindow.baml
+D:\C#\Gabutku\Promos\Promos\obj\Debug\Penawaran.baml
+D:\C#\Gabutku\Promos\Promos\obj\Debug\Promos.g.resources
+D:\C#\Gabutku\Promos\Promos\obj\Debug\Promos.Properties.Resources.resources
+D:\C#\Gabutku\Promos\Promos\obj\Debug\Promos.csproj.GenerateResource.Cache
+D:\C#\Gabutku\Promos\Promos\obj\Debug\Promos.exe
+D:\C#\Gabutku\Promos\Promos\obj\Debug\Promos.pdb
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\bin\Debug\Promos.exe.config
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\bin\Debug\Promos.exe
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\bin\Debug\Promos.pdb
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Promos.csprojAssemblyReference.cache
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\MainWindow.g.cs
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Penawaran.g.cs
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\App.g.cs
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Promos_MarkupCompile.cache
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Promos_MarkupCompile.lref
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\MainWindow.baml
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Penawaran.baml
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Promos.g.resources
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Promos.Properties.Resources.resources
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Promos.csproj.GenerateResource.cache
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Promos.csproj.CoreCompileInputs.cache
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Promos.exe
+D:\JOKI TUGAS\apryan\pemrog\MVC-master\Promos\obj\Debug\Promos.pdb
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\bin\Debug\Promos.exe.config
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\bin\Debug\Promos.exe
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\bin\Debug\Promos.pdb
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Promos.csprojAssemblyReference.cache
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\MainWindow.g.cs
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Penawaran.g.cs
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\App.g.cs
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Promos_MarkupCompile.cache
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Promos_MarkupCompile.lref
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\MainWindow.baml
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Penawaran.baml
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Promos.g.resources
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Promos.Properties.Resources.resources
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Promos.csproj.GenerateResource.cache
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Promos.csproj.CoreCompileInputs.cache
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Promos.exe
+D:\JOKI TUGAS\Ipank\pemrog\MVC\Promos\obj\Debug\Promos.pdb
